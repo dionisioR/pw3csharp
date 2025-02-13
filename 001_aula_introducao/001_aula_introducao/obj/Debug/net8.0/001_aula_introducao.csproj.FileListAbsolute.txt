@@ -1,0 +1,15 @@
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\bin\Debug\net8.0\001_aula_introducao.exe
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\bin\Debug\net8.0\001_aula_introducao.deps.json
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\bin\Debug\net8.0\001_aula_introducao.runtimeconfig.json
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\bin\Debug\net8.0\001_aula_introducao.dll
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\bin\Debug\net8.0\001_aula_introducao.pdb
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.AssemblyInfo.cs
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.sourcelink.json
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.dll
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\refint\001_aula_introducao.dll
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.pdb
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\001_aula_introducao.genruntimeconfig.cache
+C:\xampp\htdocs\pw3csharp\001_aula_introducao\001_aula_introducao\obj\Debug\net8.0\ref\001_aula_introducao.dll
