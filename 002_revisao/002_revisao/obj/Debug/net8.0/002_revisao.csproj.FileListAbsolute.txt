@@ -1,0 +1,15 @@
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\bin\Debug\net8.0\002_revisao.exe
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\bin\Debug\net8.0\002_revisao.deps.json
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\bin\Debug\net8.0\002_revisao.runtimeconfig.json
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\bin\Debug\net8.0\002_revisao.dll
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\bin\Debug\net8.0\002_revisao.pdb
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.AssemblyInfo.cs
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.sourcelink.json
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.dll
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\refint\002_revisao.dll
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.pdb
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\002_revisao.genruntimeconfig.cache
+C:\xampp\htdocs\pw3csharp\002_revisao\002_revisao\obj\Debug\net8.0\ref\002_revisao.dll
