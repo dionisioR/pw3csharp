@@ -1,0 +1,15 @@
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\bin\Debug\net8.0\003_Estrutura_repeticao_POO.exe
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\bin\Debug\net8.0\003_Estrutura_repeticao_POO.deps.json
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\bin\Debug\net8.0\003_Estrutura_repeticao_POO.runtimeconfig.json
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\bin\Debug\net8.0\003_Estrutura_repeticao_POO.dll
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\bin\Debug\net8.0\003_Estrutura_repeticao_POO.pdb
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.AssemblyInfoInputs.cache
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.AssemblyInfo.cs
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.sourcelink.json
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.dll
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\refint\003_Estrutura_repeticao_POO.dll
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.pdb
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\003_Estrutura_repeticao_POO.genruntimeconfig.cache
+C:\xampp\htdocs\pw3csharp\003_Estrutura_repeticao_POO\003_Estrutura_repeticao_POO\obj\Debug\net8.0\ref\003_Estrutura_repeticao_POO.dll
