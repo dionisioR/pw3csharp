@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{74883C4B-0033-43B3-977E-EA42DD4643B5}|003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO.csproj|solutionrelative:003_estrutura_repeticao_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74883C4B-0033-43B3-977E-EA42DD4643B5}|003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO.csproj|c:\\xampp\\htdocs\\pw3csharp\\003_estrutura_repeticao_poo\\003_estrutura_repeticao_poo\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74883C4B-0033-43B3-977E-EA42DD4643B5}|003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO.csproj|solutionrelative:003_estrutura_repeticao_poo\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74883C4B-0033-43B3-977E-EA42DD4643B5}|003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO.csproj|c:\\xampp\\htdocs\\pw3csharp\\003_estrutura_repeticao_poo\\003_estrutura_repeticao_poo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74883C4B-0033-43B3-977E-EA42DD4643B5}|003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO.csproj|solutionrelative:003_estrutura_repeticao_poo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Teste.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO\\Teste.cs",
-              "RelativeDocumentMoniker": "003_Estrutura_repeticao_POO\\Teste.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO\\Teste.cs*",
-              "RelativeToolTip": "003_Estrutura_repeticao_POO\\Teste.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAZAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO\\Pessoa.cs",
+              "RelativeDocumentMoniker": "003_Estrutura_repeticao_POO\\Pessoa.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO\\Pessoa.cs",
+              "RelativeToolTip": "003_Estrutura_repeticao_POO\\Pessoa.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:23:44.071Z",
+              "WhenOpened": "2025-03-06T12:59:45.457Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "003_Estrutura_repeticao_POO\\Program.cs",
               "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\003_Estrutura_repeticao_POO\\003_Estrutura_repeticao_POO\\Program.cs",
               "RelativeToolTip": "003_Estrutura_repeticao_POO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T12:23:01.494Z",
               "EditorCaption": ""

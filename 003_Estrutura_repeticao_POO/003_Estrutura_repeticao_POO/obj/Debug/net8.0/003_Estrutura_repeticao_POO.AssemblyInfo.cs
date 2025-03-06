@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("003_Estrutura_repeticao_POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e7f51503c175f2f798fe9bc7e5e91e77ca66224")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7fee2743d67b313cf97c9c424d45e496864e619")]
 [assembly: System.Reflection.AssemblyProductAttribute("003_Estrutura_repeticao_POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("003_Estrutura_repeticao_POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
