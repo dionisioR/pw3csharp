@@ -1,0 +1,15 @@
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\bin\Debug\net8.0\004_POO_Validacoes.exe
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\bin\Debug\net8.0\004_POO_Validacoes.deps.json
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\bin\Debug\net8.0\004_POO_Validacoes.runtimeconfig.json
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\bin\Debug\net8.0\004_POO_Validacoes.dll
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\bin\Debug\net8.0\004_POO_Validacoes.pdb
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.AssemblyInfoInputs.cache
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.AssemblyInfo.cs
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.sourcelink.json
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.dll
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\refint\004_POO_Validacoes.dll
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.pdb
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\004_POO_Validacoes.genruntimeconfig.cache
+C:\xampp\htdocs\pw3csharp\004_POO_Validacoes\004_POO_Validacoes\obj\Debug\net8.0\ref\004_POO_Validacoes.dll
