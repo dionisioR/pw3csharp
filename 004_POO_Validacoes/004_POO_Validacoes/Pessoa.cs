@@ -67,5 +67,31 @@ namespace _004_POO_Validacoes
         }
 
 
+        public Pessoa(string nome, int idade,double peso, double altura)
+        {
+            this.nome = nome;
+            this.idade = idade;
+            this.peso = peso;
+            this.altura = altura;
+        }
+
+        public Pessoa() { }
+
+
+        public string DadosPessoa()
+        {
+            return $"NOME: {nome} " +
+                $"IDADE: {idade} " +
+                $"PESO: {peso}" +
+                $"ALTURA: {altura}";
+        }
+
+        public override string ToString() {
+            return $"NOME: {nome} " +
+               $"IDADE: {idade} " +
+               $"PESO: {peso}" +
+               $"ALTURA: {altura}";
+        }
+
     }
 }

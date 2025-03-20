@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("004_POO_Validacoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2bae91287463870e8080301086a9f4ab859902d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edd62fa38a594b42a450bbad506e239e8cfd58fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("004_POO_Validacoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("004_POO_Validacoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

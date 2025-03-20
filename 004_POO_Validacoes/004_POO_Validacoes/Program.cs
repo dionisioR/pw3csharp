@@ -5,5 +5,7 @@ Endereco endereco = new Endereco("Rua dos Sonhos", 22, "Pedregulho", "Guara", "S
 endereco.ExibirEndereco();
 
 
-Pessoa p = new Pessoa();
-p.Nome = "NomeDaPessoa";
+
+Pessoa p = new Pessoa("Rodrigo",22,88.8, 1.7);
+Console.WriteLine(p.DadosPessoa());
+Console.WriteLine(p);
