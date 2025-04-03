@@ -1,0 +1,15 @@
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\bin\Debug\net8.0\005_POO_Associacao.exe
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\bin\Debug\net8.0\005_POO_Associacao.deps.json
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\bin\Debug\net8.0\005_POO_Associacao.runtimeconfig.json
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\bin\Debug\net8.0\005_POO_Associacao.dll
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\bin\Debug\net8.0\005_POO_Associacao.pdb
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.AssemblyInfoInputs.cache
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.AssemblyInfo.cs
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.sourcelink.json
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.dll
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\refint\005_POO_Associacao.dll
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.pdb
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\005_POO_Associacao.genruntimeconfig.cache
+C:\xampp\htdocs\pw3csharp\005_POO_Associacao\005_POO_Associacao\obj\Debug\net8.0\ref\005_POO_Associacao.dll

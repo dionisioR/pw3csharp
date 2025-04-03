@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\pw3csharp\\005_POO_Associacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7893CEE9-726D-41F6-B6FB-B25B749B05BF}|005_POO_Associacao\\005_POO_Associacao.csproj|c:\\xampp\\htdocs\\pw3csharp\\005_poo_associacao\\005_poo_associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7893CEE9-726D-41F6-B6FB-B25B749B05BF}|005_POO_Associacao\\005_POO_Associacao.csproj|solutionrelative:005_poo_associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7893CEE9-726D-41F6-B6FB-B25B749B05BF}|005_POO_Associacao\\005_POO_Associacao.csproj|c:\\xampp\\htdocs\\pw3csharp\\005_poo_associacao\\005_poo_associacao\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7893CEE9-726D-41F6-B6FB-B25B749B05BF}|005_POO_Associacao\\005_POO_Associacao.csproj|solutionrelative:005_poo_associacao\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7893CEE9-726D-41F6-B6FB-B25B749B05BF}|005_POO_Associacao\\005_POO_Associacao.csproj|c:\\xampp\\htdocs\\pw3csharp\\005_poo_associacao\\005_poo_associacao\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7893CEE9-726D-41F6-B6FB-B25B749B05BF}|005_POO_Associacao\\005_POO_Associacao.csproj|solutionrelative:005_poo_associacao\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\005_POO_Associacao\\005_POO_Associacao\\Pessoa.cs",
+              "RelativeDocumentMoniker": "005_POO_Associacao\\Pessoa.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\005_POO_Associacao\\005_POO_Associacao\\Pessoa.cs",
+              "RelativeToolTip": "005_POO_Associacao\\Pessoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:42:57.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\005_POO_Associacao\\005_POO_Associacao\\Endereco.cs",
+              "RelativeDocumentMoniker": "005_POO_Associacao\\Endereco.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\005_POO_Associacao\\005_POO_Associacao\\Endereco.cs",
+              "RelativeToolTip": "005_POO_Associacao\\Endereco.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:33:49.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\005_POO_Associacao\\005_POO_Associacao\\Program.cs",
+              "RelativeDocumentMoniker": "005_POO_Associacao\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\005_POO_Associacao\\005_POO_Associacao\\Program.cs",
+              "RelativeToolTip": "005_POO_Associacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:32:31.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
