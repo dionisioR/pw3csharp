@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|c:\\xampp\\htdocs\\pw3csharp\\006_poo_heranca\\006_poo_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|solutionrelative:006_poo_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|c:\\xampp\\htdocs\\pw3csharp\\006_poo_heranca\\006_poo_heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|solutionrelative:006_poo_heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|c:\\xampp\\htdocs\\pw3csharp\\006_poo_heranca\\006_poo_heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|solutionrelative:006_poo_heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|c:\\xampp\\htdocs\\pw3csharp\\006_poo_heranca\\006_poo_heranca\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDAED0B-673D-4003-A15F-5B4B32C0C552}|006_POO_Heranca\\006_POO_Heranca.csproj|solutionrelative:006_poo_heranca\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "006_POO_Heranca\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Program.cs",
+              "RelativeToolTip": "006_POO_Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:02:06.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Aluno.cs",
+              "RelativeDocumentMoniker": "006_POO_Heranca\\Aluno.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Aluno.cs",
+              "RelativeToolTip": "006_POO_Heranca\\Aluno.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:39:58.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Pessoa.cs",
+              "RelativeDocumentMoniker": "006_POO_Heranca\\Pessoa.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Pessoa.cs",
+              "RelativeToolTip": "006_POO_Heranca\\Pessoa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:57:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Endereco.cs",
+              "RelativeDocumentMoniker": "006_POO_Heranca\\Endereco.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\006_POO_Heranca\\006_POO_Heranca\\Endereco.cs",
+              "RelativeToolTip": "006_POO_Heranca\\Endereco.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvx0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:46:37.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
