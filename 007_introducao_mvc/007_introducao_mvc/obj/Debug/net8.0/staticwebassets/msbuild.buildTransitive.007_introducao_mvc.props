@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\007_introducao_mvc.props" />
+</Project>

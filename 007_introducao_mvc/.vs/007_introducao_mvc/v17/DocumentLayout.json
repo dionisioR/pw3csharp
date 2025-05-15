@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{739816F7-AFA0-410D-97C1-B52E8B88B2EE}|007_introducao_mvc\\007_introducao_mvc.csproj|c:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{739816F7-AFA0-410D-97C1-B52E8B88B2EE}|007_introducao_mvc\\007_introducao_mvc.csproj|solutionrelative:007_introducao_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739816F7-AFA0-410D-97C1-B52E8B88B2EE}|007_introducao_mvc\\007_introducao_mvc.csproj|c:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739816F7-AFA0-410D-97C1-B52E8B88B2EE}|007_introducao_mvc\\007_introducao_mvc.csproj|solutionrelative:007_introducao_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739816F7-AFA0-410D-97C1-B52E8B88B2EE}|007_introducao_mvc\\007_introducao_mvc.csproj|c:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739816F7-AFA0-410D-97C1-B52E8B88B2EE}|007_introducao_mvc\\007_introducao_mvc.csproj|solutionrelative:007_introducao_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "007_introducao_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "007_introducao_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:55:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "007_introducao_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "007_introducao_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:55:05.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\Program.cs",
+              "RelativeDocumentMoniker": "007_introducao_mvc\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pw3csharp\\007_introducao_mvc\\007_introducao_mvc\\Program.cs",
+              "RelativeToolTip": "007_introducao_mvc\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:54:04.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
